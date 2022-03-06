@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-- IT20615048
-- Rasanjali P.G.K
+<h3>IT20615048</h3>
+<h3>Rasanjali P.G.K</h3
 
 <!---
 KavindiRasanjali/KavindiRasanjali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
